@@ -6,7 +6,7 @@ This size of this video is about half a gigabyte, so instead of directly uplodai
 
 ### Introduction
 I used blender to create a simple laptop using the knowledge in computer science class about 3D visualization. The laptop computer is mainly of three component, the screen which is a squaure and the keyboard and the screen which are two cubic. 
-[graph1](assignment/3D_Blender/001.png)
+![graph1](assignment/3D_Blender/001.png)
 
 Then I set the light. There are two parellel light shed on the computer and a red point light right above the laptop computer. 
 
