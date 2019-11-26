@@ -1,4 +1,4 @@
-https://pan.baidu.com/s/14R5UhFbSSt6oxUKLwCbjnA
+https://www.bilibili.com/video/av77065259
 
 This size of this video is about half a gigabyte, so instead of directly uplodaing the video to Github, please view this 5 seconds video on BaiduNetDisk or Bilibili.
 
